@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
-=======
+
 # Sistema de Cadastro de Veículos
 
 Projeto desenvolvido em **Dart**, com integração ao banco de dados **Supabase**, para realizar o gerenciamento de veículos de uma locadora.
